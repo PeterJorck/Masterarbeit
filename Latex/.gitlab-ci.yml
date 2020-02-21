@@ -1,0 +1,10 @@
+image: aergus/latex
+
+build:
+  stage: build
+  artifacts:
+    paths:
+      - main.pdf
+  script:
+    - pdflatex "main.tex"
+    - pdflatex "main.tex"
