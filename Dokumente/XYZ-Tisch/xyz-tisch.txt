@@ -1,0 +1,21 @@
+Stand-Alone-Controller für X,Y,Z (läuft auch ohne PC, hat eigene IP-Adresse):
+
+https://www.aerotechgmbh.de/produktkatalog/antriebe-antriebsracks/ensemble-epaq-mr.aspx
+
+ 
+
+Die im Controller eingebauten Motorsteuerungen für die Achsen X,Y,Z sind diese hier (Ensemble MP10):
+
+https://www.aerotechgmbh.de/produktkatalog/antriebe-antriebsracks/ensemble-mp.aspx
+
+ 
+
+XY-Tisch in der Konfiguration PLANAR DL-300XY-LX2-UX2-L-LTAS-U-LTAS-CMS1-PLUS
+
+https://www.aerotechgmbh.de/produktkatalog/achsen/xy-linearachsen/planardl.aspx
+
+ 
+
+Z-Achse in der Konfiguration MPS50SL-025-TTM-B1MM-DC-NC-5V
+
+https://www.aerotechgmbh.de/produktkatalog/achsen/linearachsen/mps50sl.aspx
