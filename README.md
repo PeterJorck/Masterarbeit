@@ -1,6 +1,10 @@
 # Masterarbeit
 
+## Modell
 ![Bild](./Bilder/Schema.png)
+
+## Raypaths
+![Bild](./Bilder/Strahlengang.png)
 
 ## DLP
 * DLP LightCrafter Display 3010EVM-G2:
