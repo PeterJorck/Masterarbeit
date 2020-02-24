@@ -1,9 +1,9 @@
 # Masterarbeit
 
 ## Modell
-![Bild](./Bilder/Schema.png)
+![Bild](./Bilder/Modell.png)
 
-## Raypaths
+## Strahlengang
 ![Bild](./Bilder/Strahlengang.png)
 
 ## DLP
