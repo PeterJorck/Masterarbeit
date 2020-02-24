@@ -102,8 +102,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.979899"
-     inkscape:cx="98.264896"
-     inkscape:cy="86.615237"
+     inkscape:cx="233.21294"
+     inkscape:cy="133.86609"
      inkscape:document-units="mm"
      inkscape:current-layer="layer2"
      showgrid="false"
@@ -151,8 +151,8 @@
        sodipodi:rx="14.629227"
        sodipodi:ry="14.62986"
        sodipodi:start="5.0857274"
-       sodipodi:end="0.38247264"
-       d="m 55.257564,282.57082 a 14.629227,14.62986 0 0 1 8.095689,7.82414 14.629227,14.62986 0 0 1 0.140839,11.25803"
+       sodipodi:end="0.043911963"
+       d="m 55.257564,282.57082 a 14.629227,14.62986 0 0 1 9.279466,14.2643"
        sodipodi:open="true"
        inkscape:export-xdpi="388.11353"
        inkscape:export-ydpi="388.11353" />
@@ -202,16 +202,16 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="39.136272"
-       y="290.88586"
+       x="30.583647"
+       y="284.20413"
        id="text5537"
        inkscape:export-xdpi="388.11353"
        inkscape:export-ydpi="388.11353"><tspan
          sodipodi:role="line"
          id="tspan5535"
-         x="39.136272"
-         y="290.88586"
-         style="stroke-width:0.26458332">90°</tspan></text>
+         x="30.583647"
+         y="284.20413"
+         style="stroke-width:0.26458332">73°</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -307,6 +307,19 @@
          id="tspan5581-2"
          x="60.245087"
          y="281.0069"
+         style="stroke-width:0.26458332">17°</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="23.029776"
+       y="294.01712"
+       id="text5583-8-3"
+       inkscape:export-xdpi="388.11353"
+       inkscape:export-ydpi="388.11353"><tspan
+         sodipodi:role="line"
+         id="tspan5581-2-3"
+         x="23.029776"
+         y="294.01712"
          style="stroke-width:0.26458332">17°</tspan></text>
   </g>
   <g
