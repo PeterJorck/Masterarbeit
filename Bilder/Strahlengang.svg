@@ -15,7 +15,10 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
-   sodipodi:docname="Strahlngang.svg">
+   sodipodi:docname="Strahlengang.svg"
+   inkscape:export-filename="C:\Users\Game\Masterarbeit\Bilder\Strahlengang.png"
+   inkscape:export-xdpi="388"
+   inkscape:export-ydpi="388">
   <defs
      id="defs2">
     <marker
@@ -98,9 +101,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.98994949"
-     inkscape:cx="291.66754"
-     inkscape:cy="73.691822"
+     inkscape:zoom="1.979899"
+     inkscape:cx="98.264896"
+     inkscape:cy="86.615237"
      inkscape:document-units="mm"
      inkscape:current-layer="layer2"
      showgrid="false"
@@ -277,42 +280,34 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="59.720238"
-       y="282.06995"
-       id="text5579"
-       inkscape:export-xdpi="388.11353"
-       inkscape:export-ydpi="388.11353"><tspan
-         sodipodi:role="line"
-         id="tspan5577"
-         x="59.720238"
-         y="282.06995"
-         style="stroke-width:0.26458332">α</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="67.279762"
        y="292.46429"
        id="text5583"
        inkscape:export-xdpi="388.11353"
        inkscape:export-ydpi="388.11353"><tspan
          sodipodi:role="line"
-         id="tspan5581"
          x="67.279762"
          y="292.46429"
-         style="stroke-width:0.26458332">β</tspan></text>
+         style="stroke-width:0.26458332"
+         id="tspan932">56°</tspan><tspan
+         sodipodi:role="line"
+         x="67.279762"
+         y="298.63791"
+         style="stroke-width:0.26458332"
+         id="tspan936" /></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="71.248512"
-       y="302.10266"
-       id="text5587"
+       x="60.245087"
+       y="281.0069"
+       id="text5583-8"
        inkscape:export-xdpi="388.11353"
        inkscape:export-ydpi="388.11353"><tspan
          sodipodi:role="line"
-         id="tspan5585"
-         x="71.248512"
-         y="302.10266"
-         style="stroke-width:0.26458332">γ</tspan></text>
+         id="tspan5581-2"
+         x="60.245087"
+         y="281.0069"
+         style="stroke-width:0.26458332">17°</tspan></text>
   </g>
   <g
      inkscape:label="Chip"
