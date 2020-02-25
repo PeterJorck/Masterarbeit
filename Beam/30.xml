@@ -32,7 +32,7 @@
         </beamFit>
         <opticsList>
             <inputBeam id="2">
-                <waist>1.26692e-06</waist>
+                <waist>1.05144e-06</waist>
                 <index>1</index>
                 <M2>1</M2>
                 <position>0</position>
@@ -40,22 +40,16 @@
                 <absoluteLock>1</absoluteLock>
             </inputBeam>
             <lens id="6">
-                <focal>0.004</focal>
-                <position>0.0045</position>
+                <focal>0.03</focal>
+                <position>0.03</position>
                 <name>L4</name>
-                <absoluteLock>0</absoluteLock>
-            </lens>
-            <lens id="5">
-                <focal>0.05</focal>
-                <position>0.0905755</position>
-                <name>L3</name>
                 <absoluteLock>0</absoluteLock>
             </lens>
         </opticsList>
     </bench>
     <view id="0" bench="0">
         <horizontalRange>0.6</horizontalRange>
-        <verticalRange>0.002</verticalRange>
+        <verticalRange>0.01</verticalRange>
         <origin>-0.1</origin>
         <showTargetBeam id="0">0</showTargetBeam>
     </view>
