@@ -41,3 +41,8 @@
 * PFSQ10-03-F01 - 1" x 1" UV-Enhanced Aluminum Mirror 
   * Price: 45,25 €
   * https://www.thorlabs.com/thorproduct.cfm?partnumber=PFSQ10-03-F01
+  
+## Lence
+* AC254-080-A-ML - f=80 mm, Ø1" Achromatic Doublet, SM1-Threaded Mount, ARC: 400-700 nm 
+  * Price: 96,40 €
+  * https://www.thorlabs.com/thorproduct.cfm?partnumber=AC254-080-A-ML
