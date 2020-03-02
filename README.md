@@ -1,7 +1,7 @@
 # Masterarbeit
 
 ## Modell
-![Bild](./Bilder/Modell.png)
+![Bild](./Bilder/rghj.png)
 
 ## Strahlengang
 ![Bild](./Bilder/Strahlengang.png)
