@@ -32,7 +32,7 @@
         </beamFit>
         <opticsList>
             <inputBeam id="2">
-                <waist>1.05144e-06</waist>
+                <waist>2.0654e-07</waist>
                 <index>1</index>
                 <M2>1</M2>
                 <position>0</position>
@@ -50,11 +50,7 @@
     <view id="0" bench="0">
         <horizontalRange>0.6</horizontalRange>
         <verticalRange>0.01</verticalRange>
-<<<<<<< HEAD
-        <origin>-0.1</origin>
-=======
         <origin>-0.0996248</origin>
->>>>>>> 28b6e695f1d6a4780b5516e655a51179e50c3014
         <showTargetBeam id="0">0</showTargetBeam>
     </view>
 </gaussianBeam>

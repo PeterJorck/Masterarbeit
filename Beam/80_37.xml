@@ -50,7 +50,11 @@
     <view id="0" bench="0">
         <horizontalRange>0.6</horizontalRange>
         <verticalRange>0.01</verticalRange>
+<<<<<<< HEAD:Beam/80_37.xml
         <origin>-0.0998776</origin>
+=======
+        <origin>-0.0996248</origin>
+>>>>>>> 28b6e695f1d6a4780b5516e655a51179e50c3014:Beam/80_7.xml
         <showTargetBeam id="0">0</showTargetBeam>
     </view>
 </gaussianBeam>

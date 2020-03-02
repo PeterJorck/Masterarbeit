@@ -32,7 +32,11 @@
         </beamFit>
         <opticsList>
             <inputBeam id="2">
+<<<<<<< HEAD
                 <waist>1.05144e-06</waist>
+=======
+                <waist>1.71352e-07</waist>
+>>>>>>> 28b6e695f1d6a4780b5516e655a51179e50c3014
                 <index>1</index>
                 <M2>1</M2>
                 <position>0</position>
@@ -53,7 +57,11 @@
 <<<<<<< HEAD
         <origin>-0.1</origin>
 =======
+<<<<<<< HEAD:Beam/80_37.xml
+        <origin>-0.0998776</origin>
+=======
         <origin>-0.0996248</origin>
+>>>>>>> 28b6e695f1d6a4780b5516e655a51179e50c3014:Beam/80_7.xml
 >>>>>>> 28b6e695f1d6a4780b5516e655a51179e50c3014
         <showTargetBeam id="0">0</showTargetBeam>
     </view>
