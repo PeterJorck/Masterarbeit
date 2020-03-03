@@ -23,9 +23,9 @@
   * Price: 15,35 €
   * https://www.thorlabs.com/thorproduct.cfm?partnumber=CP33/M
 
-* ER3-P4 - Cage Assembly Rod, 3" Long, Ø6 mm, 4 Pack
-  * Price: 23,48 €
-  * https://www.thorlabs.com/thorproduct.cfm?partnumber=ER3-P4
+* ER6-P4 - Cage Assembly Rod, 6" Long, Ø6 mm, 4 Pack
+  * Price: 30,78 €
+  * https://www.thorlabs.com/thorproduct.cfm?partnumber=ER6-P4
  
 * KM1CE - Ø1" Clear-Edge Kinematic Mirror Mount, 2 Adjusters 
   * Price: 45,25 €
