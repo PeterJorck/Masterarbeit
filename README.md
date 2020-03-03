@@ -12,16 +12,6 @@
   * Price: ~720€
   * https://www.ti.com/tool/DLPDLCR3010EVM-G2
 
-* DLP® LightCrafter™ Display 2010 Evaluation Module 
-  * RES 854 × 480
-  * Price: ~520€
-  * https://www.ti.com/tool/DLPDLCR2010EVM#technicaldocuments
-
-## Beam Expanders
-* GBE10-A - 10X Achromatic Galilean Beam Expander, AR Coated: 400 - 650 nm
-  * Price: 400€ - 700€
-  * https://www.thorlabs.com/newgrouppage9.cfm?objectgroup_id=1580
-
 ## Beam Block
 * LB1/M - Beam Block, 400 - 700 nm, 10 W Max Avg. Power, CW Only, Includes TR75/M Post
   * Price: 50€
@@ -36,11 +26,15 @@
 * ER3-P4 - Cage Assembly Rod, 3" Long, Ø6 mm, 4 Pack
   * Price: 23,48 €
   * https://www.thorlabs.com/thorproduct.cfm?partnumber=ER3-P4
+ 
+* KM1CE - Ø1" Clear-Edge Kinematic Mirror Mount, 2 Adjusters 
+  * Price: 45,25 €
+  * https://www.thorlabs.com/thorproduct.cfm?partnumber=KM1CE
 
 ## Mirror
-* PFSQ10-03-F01 - 1" x 1" UV-Enhanced Aluminum Mirror 
-  * Price: 45,25 €
-  * https://www.thorlabs.com/thorproduct.cfm?partnumber=PFSQ10-03-F01
+* PF10-03-F01 - Ø1" UV-Enhanced Aluminum Mirror
+  * Price: 48,70 €
+  * https://www.thorlabs.com/thorproduct.cfm?partnumber=PF10-03-F01
   
 ## Lence
 * AC254-080-A-ML - f=80 mm, Ø1" Achromatic Doublet, SM1-Threaded Mount, ARC: 400-700 nm 
