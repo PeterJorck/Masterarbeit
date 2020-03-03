@@ -14,7 +14,7 @@
 
 ## Beam Block
 * LB1/M - Beam Block, 400 - 700 nm, 10 W Max Avg. Power, CW Only, Includes TR75/M Post
-  * Price: 50€
+  * Price: 48,69 €
   * https://www.thorlabs.com/thorproduct.cfm?partnumber=LB1/M
 
 
