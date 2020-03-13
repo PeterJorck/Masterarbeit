@@ -12,17 +12,7 @@
   * Price: ~720€
   * https://www.ti.com/tool/DLPDLCR3010EVM-G2
 
-## Beam Block
-* LB1/M - Beam Block, 400 - 700 nm, 10 W Max Avg. Power, CW Only, Includes TR75/M Post
-  * Price: 48,69 €
-  * https://www.thorlabs.com/thorproduct.cfm?partnumber=LB1/M
-
-
 ## Optic Mounts
-* CP33/M - SM1-Threaded 30 mm Cage Plate, 0.35" Thick, 2 Retaining Rings, M4 Tap
-  * Price: 15,35 €
-  * https://www.thorlabs.com/thorproduct.cfm?partnumber=CP33/M
-
 * ER6-P4 - Cage Assembly Rod, 6" Long, Ø6 mm, 4 Pack
   * Price: 30,78 €
   * https://www.thorlabs.com/thorproduct.cfm?partnumber=ER6-P4
@@ -36,7 +26,7 @@
   * Price: 48,70 €
   * https://www.thorlabs.com/thorproduct.cfm?partnumber=PF10-03-F01
   
-## Lence
+## Lense
 * AC254-080-A-ML - f=80 mm, Ø1" Achromatic Doublet, SM1-Threaded Mount, ARC: 400-700 nm 
   * Price: 96,40 €
   * https://www.thorlabs.com/thorproduct.cfm?partnumber=AC254-080-A-ML
