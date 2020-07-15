@@ -2,6 +2,7 @@
 
 ## Modell
 ![Bild](./Bilder/rghj.png)
+![Bild](./Bilder/Schema.png)
 
 ## Strahlengang
 ![Bild](./Bilder/Strahlengang.png)
